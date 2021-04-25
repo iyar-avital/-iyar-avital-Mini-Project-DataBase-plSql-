@@ -1,0 +1,11 @@
+drop TABLE tested;
+drop TABLE interestedOf;
+drop TABLE admissionBagrut;
+drop TABLE meeting;
+drop TABLE counselor;
+drop TABLE psychometric;
+drop TABLE bagrutSubject;
+drop TABLE areaStudy;
+drop TABLE interested;
+drop TABLE person;
+drop TABLE address;
